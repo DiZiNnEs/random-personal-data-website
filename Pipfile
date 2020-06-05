@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 flask = "*"
 names = "==0.3.0"
+faker = "==4.1.0"
 
 [requires]
 python_version = "3.8"
